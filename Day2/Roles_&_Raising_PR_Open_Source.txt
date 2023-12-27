@@ -2,11 +2,12 @@
 In a typical OS project we will have the following people:
 --> Author - This is the person who created the project. They have the power to assign new roles to other members to help with the project's maintenance.
 --> Owner - The owner has administrative ownership of the project (and can be the same person as the author)
---> Maintainers - These people are responsible for driving the vision and goals of the project. They're usually people who feel responsible for the direction of the project and who are committed to improving it.
---> Contributors - Contributors add to the project in one way or another. They follow the same code review process, are subject to the same requirements on code style, and so on.
+--> Maintainers - These people are responsible for driving the vision and goals of the project.
+--> Contributors - Contributors add to the project in one way or another.
 --> Community Members/Users - These valuable members of the community can provide feedback about features, bug reports, and more.
 
-So, through all this exploration of Open Source contribution, you may have come across the term 'Pull Request'. Let's further discuss, what is it and how to raise it.
+So, through all this exploration of Open Source contribution, you may have come across the term 'Pull Request'. 
+Let's further discuss, what is it and how to raise it.
 
 # What is a Pull Request?
 --> We can describe a pull request as when a contributor submits changes – wether it's code, documentation, or elsewhere,
