@@ -1,0 +1,53 @@
+# Roles in a Open Source Project
+In a typical OS project we will have the following people:
+--> Author - This is the person who created the project. They have the power to assign new roles to other members to help with the project's maintenance.
+--> Owner - The owner has administrative ownership of the project (and can be the same person as the author)
+--> Maintainers - These people are responsible for driving the vision and goals of the project. They're usually people who feel responsible for the direction of the project and who are committed to improving it.
+--> Contributors - Contributors add to the project in one way or another. They follow the same code review process, are subject to the same requirements on code style, and so on.
+--> Community Members/Users - These valuable members of the community can provide feedback about features, bug reports, and more.
+
+So, through all this exploration of Open Source contribution, you may have come across the term 'Pull Request'. Let's further discuss, what is it and how to raise it.
+
+# What is a Pull Request?
+--> We can describe a pull request as when a contributor submits changes – wether it's code, documentation, or elsewhere,
+    and asks a maintainer to check it out, make sure it's fine, and then merge it to the base project.
+
+# How to Submit a Pull Request:
+If you are at this stage, it means you have found a project and you are ready to make your contribution.
+- Steps to Submit a PR
+--> Fork the repository
+--> At the top right corner, you will see the term "fork". All you need to do is click it and you will have created a copy of the same project in your account.
+--> After this operation the URL of the project will change to:
+    https://github.com/<YourUserName>/projectname
+--> Clone the project into your local machine
+--> In order for you to perform this step, you must have Git installed locally in your machine.
+--> Copy the forked project URL, and proceed to your local machine where you will open git bash, and proceed with the command below:
+    git clone https://github.com/<YourUserName>/<projectname>
+--> This will create a copy of the project on your local machine. Now that you have cloned the repo we will need to do two things:
+--> Now, let's create a branch. In your git bash, change the path to pint to your repository directory. To do that use this command:
+    cd project folder name
+--> Now, to create a branch we will use the command: git checkout
+    git checkout -b your-new-branch-name
+    git checkout -b lary-mak
+--> It's time to add the new changes into the branch we created. In order to see all the changes you made, we will use the git status command:
+    git status
+    The command will list all the changes you made. 
+--> To add them we will use git add *, which will add all the files to our branch.
+    git add *
+--> Let's add a commit message, briefly explaining what we added:
+    git commit -m "<message here>"
+--> Push changes to remote
+Now that everything is set, it's time to let our maintainer know what we have added. That is made possible by pushing the changes with this command:
+    git push origin <add-your-branch-name>
+    replacing <add-your-branch-name> with the name of the branch you created earlier.
+--> Now, If you go to your repository on GitHub and refresh the page, you'll see a Compare and pull request button. Click on that button.
+--> Soon the maintainer will merge all your changes into the master branch of this project (unless they need changes from you).
+
+So, this is how you raise your first PR.
+
+#Creating a pull request has some advantages:
+--> It allows you to contribute to another repo without needing administrative privileges to make changes to the repo.
+--> It allows others to review your changes and suggest corrections, additions, edits, and so on.
+--> It gives repo administrators control over what gets added to their project repo.
+
+So, to sum up this is the standard, fork -> clone -> edit -> pull request work-flow which sums up first contribution. We use this often as a contributor!
