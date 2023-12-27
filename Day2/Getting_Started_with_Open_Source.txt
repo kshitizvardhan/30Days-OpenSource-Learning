@@ -1,0 +1,28 @@
+# Getting Started with Open Source:
+--> Find an active project.
+--> Talk to people who are contributing to open source. Ask people in tech communities you’re a part of, and check out the list of contributors for the technology you’re interested in
+--> Reach out to them to learn more about their experiences contributing to the projects they’re a part of.
+--> Find a project that has beginner-friendly issues. Projects with "good first issues" or "beginner-friendly" labels are often good for beginners.
+--> Read the project documentation. This will help you understand the project's goals, its codebase, and its coding standards. 
+--> Always read through the README and CONTRIBUTING guides. Not only can you get a better understanding of the project, but the expectations for how to contribute should be explained and clear.
+
+Engage with the Community. Join the project’s communication channels, like Discord, their discussions, their blog, and introduce yourself.
+Be patient. It takes time to learn how to contribute to an open source project. Just keep learning and practicing
+
+# Benefits to Contributing to Open Source:
+--> Learn new skills: Open source projects are a great way to learn new programming skills. You can learn from the code of other developers, and you can get feedback on your own code from the community.
+--> Make a difference: Open source software is used by millions of people around the world. By contributing to open source projects, you can help make that software.
+--> Gain real-work experience: When you contribute to an open source project, you are demonstrating your skills in a number of areas, including:
+--> Programming: Writing code that is both functional and readable.
+--> Problem-solving: Identifying and solving problems in code.
+--> Collaboration: Working with other developers to achieve a common goal.
+--> Communication: Communicating your ideas clearly and concisely, whether that’s in writing documentation or discussing the issue you’re working on.
+
+# Learning the Basics of Contributing:
+--> Version Control System: Version control systems (VCS) are tools that help developers manage changes to source code and other files in a collaborative development environment. 
+--> Code Organization: How the code is structured will impact readability and maintainability.
+--> Code Readability: Writing code that’s easy to understand helps in collaboration and reduces the likelihood of bugs. 
+    Ways to do that include:
+    - Using descriptive variable names
+    - Writing clear comments
+    - Consistent formatting.
