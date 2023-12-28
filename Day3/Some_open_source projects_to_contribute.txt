@@ -1,0 +1,27 @@
+1. Snapify
+Check the repository here:
+https://github.com/MarconLP/snapify
+
+2. KeyPass
+Check the repository here:
+http://github.com/yogeshpaliyal/KeyPass
+
+3. Bob
+Check the repository here:
+https://github.com/stephenafamo/bob
+
+4. SwitchFeat
+Check the repository here:
+https://github.com/switchfeat-com/switchfeat
+
+5. Dyrector.io
+Check the repository here:
+https://github.com/dyrector-io/dyrectorio
+
+6. Hackertab.dev
+Check the repository here:
+https://github.com/medyo/hackertab.dev
+
+7. Openstatus
+Check the repository here:
+https://github.com/openstatusHQ/openstatus
