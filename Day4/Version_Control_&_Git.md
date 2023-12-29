@@ -34,6 +34,6 @@ So now let’s proceed ahead what exactly is Git.
   - pull: When you have made the changes in codes that you have copied and want to share them with its original order. Then you can send a notification called a “pull request” to them.
   - merge: Now the user who is the owner of those codes, if, finds your changes relevant can merge the changes found in your repo with the original repo, by just button click.
 
-If your pull request is accepted by the owner then you get its credit on the original site and shows up in your user profile. 
-So, more the people and projects on GitHub, the better idea a project maintainer gets of its potential contributors.
-This encourages the young developers and projects to grow more in the industry.
+- If your pull request is accepted by the owner then you get its credit on the original site and shows up in your user profile. 
+- So, more the people and projects on GitHub, the better idea a project maintainer gets of its potential contributors.
+- This encourages the young developers and projects to grow more in the industry.
